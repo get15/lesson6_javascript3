@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 6, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Garrett Turner)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment I learned How to use DOM's into adding pictures to a photogallery and into making the buttons work.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://get15.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (In this assignment i used the getElementById command to define images.)
+2. (In this assignment I used the var command to define the buttons so that they work.)
+3. (In this assignment I used the if and else commands to make sure the arrows worked.)
